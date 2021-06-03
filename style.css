@@ -1,0 +1,27 @@
+h1 {
+color: orangered;
+}
+* {
+border: solid;
+}
+.header{
+    background-color: gold;
+    display:flex;
+    justify-content: space-between;
+}
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.foot{
+    display:flex;
+    justify-content: space-evenly;
+}
+p, h4{
+    text-align: center;
+    text-decoration-color: hotpink;
+}
+body{
+    background-color: #808080;
+}
